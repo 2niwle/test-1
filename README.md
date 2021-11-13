@@ -4,7 +4,6 @@
 # hey lets check this thing out
 # hi this is a test
 # hi
-
 # new branch 
 # haha i'm here
-# i love genshin impact
+# i hate genshin impact
